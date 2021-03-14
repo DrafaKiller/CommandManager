@@ -2,7 +2,7 @@
 
 PaperMC plugin helper for Minecraft.
 
-Add this to your project and don't need to worry about managing your plugin's command anymore.
+Add this to your project and you won't need to worry about managing your plugin's command anymore.
 With this it's much easier. Create a SubCommand class for each sub command you want in your plugin and create a method that will be executed when the command runs.
 
 ## How to use?
